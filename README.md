@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hiuhu003
 - 👀 I’m interested in being a full stack developer
-- 🌱 I’m currently learning javascript and embracing tailwindcss
+- 🌱 I’m currently learning javascript and laravel php
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... my email is ursulahiuhu03@gmail.com
 
